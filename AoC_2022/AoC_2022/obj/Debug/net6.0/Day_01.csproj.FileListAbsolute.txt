@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\resources\day_01_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\Day_01.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\Day_01.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\Day_01.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\Day_01.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\Day_01.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\refint\Day_01.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\Day_01.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\obj\Debug\net6.0\ref\Day_01.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\AoC_2022\bin\Debug\net6.0\resources\day_01_first-input.txt
