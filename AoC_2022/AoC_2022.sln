@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_01", "AoC_2022\Day_01.csproj", "{118A4B19-79FD-4E62-BC80-CDA37FABC81D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_01_Calorie_Counting", "AoC_2022\Day_01_Calorie_Counting.csproj", "{118A4B19-79FD-4E62-BC80-CDA37FABC81D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_02", "Day_02\Day_02.csproj", "{C67F1C18-BAB7-482D-A462-6B311A8370EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_02_Rock_Paper_Scissors", "Day_02\Day_02_Rock_Paper_Scissors.csproj", "{C67F1C18-BAB7-482D-A462-6B311A8370EC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_03_Rucksack_Reorganization", "Day_03_Rucksack_Reorganization\Day_03_Rucksack_Reorganization.csproj", "{8589D621-9B07-4A1A-8844-FCB544B607AF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C67F1C18-BAB7-482D-A462-6B311A8370EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C67F1C18-BAB7-482D-A462-6B311A8370EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C67F1C18-BAB7-482D-A462-6B311A8370EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8589D621-9B07-4A1A-8844-FCB544B607AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8589D621-9B07-4A1A-8844-FCB544B607AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8589D621-9B07-4A1A-8844-FCB544B607AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8589D621-9B07-4A1A-8844-FCB544B607AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

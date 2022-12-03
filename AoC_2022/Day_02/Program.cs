@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Reflection.Metadata;
 
-namespace day_01
+namespace day_02
 {
     class RockPaperScissors
     {

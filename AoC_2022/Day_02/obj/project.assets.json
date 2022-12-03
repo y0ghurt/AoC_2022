@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02.csproj",
-      "projectName": "Day_02",
-      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02_Rock_Paper_Scissors.csproj",
+      "projectName": "Day_02_Rock_Paper_Scissors",
+      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02_Rock_Paper_Scissors.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\obj\\",
       "projectStyle": "PackageReference",

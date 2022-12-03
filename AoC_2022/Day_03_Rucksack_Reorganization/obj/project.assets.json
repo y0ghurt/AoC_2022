@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\AoC_2022\\Day_01_Calorie_Counting.csproj",
-      "projectName": "Day_01_Calorie_Counting",
-      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\AoC_2022\\Day_01_Calorie_Counting.csproj",
+      "projectUniqueName": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_03_Rucksack_Reorganization\\Day_03_Rucksack_Reorganization.csproj",
+      "projectName": "Day_03_Rucksack_Reorganization",
+      "projectPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_03_Rucksack_Reorganization\\Day_03_Rucksack_Reorganization.csproj",
       "packagesPath": "C:\\Users\\henri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\AoC_2022\\obj\\",
+      "outputPath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_03_Rucksack_Reorganization\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\NuGetPackages"

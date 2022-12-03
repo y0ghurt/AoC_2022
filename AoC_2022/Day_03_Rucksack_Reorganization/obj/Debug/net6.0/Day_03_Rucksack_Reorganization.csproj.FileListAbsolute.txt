@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\Day_03_Rucksack_Reorganization.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\Day_03_Rucksack_Reorganization.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\Day_03_Rucksack_Reorganization.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\Day_03_Rucksack_Reorganization.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\Day_03_Rucksack_Reorganization.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\refint\Day_03_Rucksack_Reorganization.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\Day_03_Rucksack_Reorganization.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\obj\Debug\net6.0\ref\Day_03_Rucksack_Reorganization.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\resources\day_03_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_03_Rucksack_Reorganization\bin\Debug\net6.0\resources\day_03_first-input.txt

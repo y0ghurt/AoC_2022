@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Kf8qO+PUZmSx3J/pDVsdYUAJYV+uZ0jydNAOc8wAK8aVOBM0uYt4X9vmAbadHrAd7ribBsxhGUFpZ+qfb/il1g==",
+  "dgSpecHash": "JdAq0CEIakEqv4MxyslLY9Un+CrLQYz4D1JV8i2vftn5uHoEbivCTs4jTTxl4jRuUOGe029tATOkNBSypEzxtA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02.csproj",
+  "projectFilePath": "C:\\Users\\henri\\Documents\\repos\\AoC_2022\\AoC_2022\\Day_02\\Day_02_Rock_Paper_Scissors.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

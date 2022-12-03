@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\resources\day_02_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\resources\day_02_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\Day_02_Rock_Paper_Scissors.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\Day_02_Rock_Paper_Scissors.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\Day_02_Rock_Paper_Scissors.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\Day_02_Rock_Paper_Scissors.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\bin\Debug\net6.0\Day_02_Rock_Paper_Scissors.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\refint\Day_02_Rock_Paper_Scissors.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\Day_02_Rock_Paper_Scissors.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_02\obj\Debug\net6.0\ref\Day_02_Rock_Paper_Scissors.dll
