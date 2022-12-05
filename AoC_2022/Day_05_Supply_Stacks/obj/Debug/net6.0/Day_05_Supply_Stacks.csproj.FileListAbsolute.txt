@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\Day_05_Supply_Stacks.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\Day_05_Supply_Stacks.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\Day_05_Supply_Stacks.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\Day_05_Supply_Stacks.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\Day_05_Supply_Stacks.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\refint\Day_05_Supply_Stacks.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\Day_05_Supply_Stacks.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\obj\Debug\net6.0\ref\Day_05_Supply_Stacks.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\resources\day_05_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_05_Supply_Stacks\bin\Debug\net6.0\resources\day_05_first-input.txt

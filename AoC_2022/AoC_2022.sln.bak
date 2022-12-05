@@ -11,7 +11,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_03_Rucksack_Reorganizat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Day_04_Camp_Cleanup", "Day_04_Camp_Cleanup\Day_04_Camp_Cleanup.csproj", "{61E99BE3-87FA-4C04-A175-888AB79DA260}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_05_Supply_Stacks", "Day_05_Supply_Stacks\Day_05_Supply_Stacks.csproj", "{AEDA1A0D-422A-4D94-9678-CE0221E0732F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_05_Supply_Stacks", "Day_01_Supply_Stacks\Day_05_Supply_Stacks.csproj", "{AEDA1A0D-422A-4D94-9678-CE0221E0732F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
