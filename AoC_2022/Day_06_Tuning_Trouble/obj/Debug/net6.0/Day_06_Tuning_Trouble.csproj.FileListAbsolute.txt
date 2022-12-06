@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\resources\day_06_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\Day_06_Tuning_Trouble.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\Day_06_Tuning_Trouble.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\Day_06_Tuning_Trouble.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\Day_06_Tuning_Trouble.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\Day_06_Tuning_Trouble.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\refint\Day_06_Tuning_Trouble.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\Day_06_Tuning_Trouble.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\obj\Debug\net6.0\ref\Day_06_Tuning_Trouble.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_06_Tuning_Trouble\bin\Debug\net6.0\resources\day_06_first-input.txt
