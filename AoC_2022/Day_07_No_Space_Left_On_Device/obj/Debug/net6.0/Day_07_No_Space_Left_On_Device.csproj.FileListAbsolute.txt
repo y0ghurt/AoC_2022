@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\Day_07_No_Space_Left_On_Device.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\Day_07_No_Space_Left_On_Device.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\Day_07_No_Space_Left_On_Device.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\Day_07_No_Space_Left_On_Device.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\Day_07_No_Space_Left_On_Device.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\refint\Day_07_No_Space_Left_On_Device.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\Day_07_No_Space_Left_On_Device.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\obj\Debug\net6.0\ref\Day_07_No_Space_Left_On_Device.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\resources\day_07_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_07_No_Space_Left_On_Device\bin\Debug\net6.0\resources\day_07_first-input.txt
