@@ -44,21 +44,23 @@ namespace day_10
             int X = 1;
             int cycle = 0;
             int row = -1;
+            int drawPosition;
 
             List<string[]> pixels = new List<string[]>();
             foreach (Instruction instruction in instructions)
             {
                 for (int cycles = instruction.command; cycles > 0; cycles--)
                 {
-                    if (cycle % 40 == 0)
+                    drawPosition = cycle % 40;
+                    if (drawPosition == 0)
                     {
                         row++;
                         pixels.Add(new string[] { ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", ".", "." });
                     }
 
-                    if(cycle % 40 >= X - 1 && cycle % 40 <= X + 1)
+                    if(drawPosition >= X - 1 && drawPosition <= X + 1)
                     {
-                        pixels[row][cycle % 40] = "#";
+                        pixels[row][drawPosition] = "#";
                     }
                     cycle++;
                 }
@@ -133,7 +135,5 @@ namespace day_10
                 }
             }
         }
-
-
     }
 }
