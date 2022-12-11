@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\Day_10_Cathode-Ray_Tube.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\Day_10_Cathode-Ray_Tube.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\Day_10_Cathode-Ray_Tube.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\Day_10_Cathode-Ray_Tube.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\Day_10_Cathode-Ray_Tube.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\refint\Day_10_Cathode-Ray_Tube.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\Day_10_Cathode-Ray_Tube.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\obj\Debug\net6.0\ref\Day_10_Cathode-Ray_Tube.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\resources\day_10_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_10_Cathode-Ray_Tube\bin\Debug\net6.0\resources\day_10_first-input.txt
