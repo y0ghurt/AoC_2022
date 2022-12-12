@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\resources\day_11_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\resources\day_11_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\Day_11_Monkey_in_the_Middle.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\Day_11_Monkey_in_the_Middle.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\Day_11_Monkey_in_the_Middle.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\Day_11_Monkey_in_the_Middle.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\bin\Debug\net6.0\Day_11_Monkey_in_the_Middle.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\refint\Day_11_Monkey_in_the_Middle.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\Day_11_Monkey_in_the_Middle.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_11_Monkey_in_the_Middle\obj\Debug\net6.0\ref\Day_11_Monkey_in_the_Middle.dll
