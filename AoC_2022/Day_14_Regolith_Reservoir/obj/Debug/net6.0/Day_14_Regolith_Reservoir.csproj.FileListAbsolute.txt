@@ -1,0 +1,17 @@
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\resources\day_14_first-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\resources\day_14_test-input.txt
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\Day_14_Regolith_Reservoir.exe
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\Day_14_Regolith_Reservoir.deps.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\Day_14_Regolith_Reservoir.runtimeconfig.json
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\Day_14_Regolith_Reservoir.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\bin\Debug\net6.0\Day_14_Regolith_Reservoir.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.csproj.AssemblyReference.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.AssemblyInfoInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.AssemblyInfo.cs
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.csproj.CoreCompileInputs.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\refint\Day_14_Regolith_Reservoir.dll
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.pdb
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\Day_14_Regolith_Reservoir.genruntimeconfig.cache
+C:\Users\henri\Documents\repos\AoC_2022\AoC_2022\Day_14_Regolith_Reservoir\obj\Debug\net6.0\ref\Day_14_Regolith_Reservoir.dll
