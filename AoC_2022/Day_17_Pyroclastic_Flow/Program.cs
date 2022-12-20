@@ -31,7 +31,6 @@
             DefineFirstTaskShapes(shapes);
 
             long highestPoint = Simulate(shapes, commands, 1000000000000);
-            //long highestPoint = Simulate(shapes, commands, 2550);
 
             Console.WriteLine("Second task: " + highestPoint);
         }
@@ -49,7 +48,6 @@
             int cycleHeight = 2728;
             int iterationsNeeded = 0;
             int cyclesToCalculate = 0;
-            //initialLength = 100000;
             long rockIterator = 0;
 
 
