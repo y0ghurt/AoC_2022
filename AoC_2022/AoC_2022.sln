@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_17_Pyroclastic_Flow", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_18_Boiling_Boulders", "Day_18_Boiling_Boulders\Day_18_Boiling_Boulders.csproj", "{06145486-730A-48A3-8D82-14640BD90F30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day_19_Not_Enough_Minerals", "Day_19_Not_Enough_Minerals\Day_19_Not_Enough_Minerals.csproj", "{A88DFE02-5547-4597-A049-E29788DC0390}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{06145486-730A-48A3-8D82-14640BD90F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06145486-730A-48A3-8D82-14640BD90F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06145486-730A-48A3-8D82-14640BD90F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A88DFE02-5547-4597-A049-E29788DC0390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A88DFE02-5547-4597-A049-E29788DC0390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A88DFE02-5547-4597-A049-E29788DC0390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A88DFE02-5547-4597-A049-E29788DC0390}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
